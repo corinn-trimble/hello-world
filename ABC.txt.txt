@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 gitkraken try
+=======
+gonna try this
+>>>>>>> readme-edits
