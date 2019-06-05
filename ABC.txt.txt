@@ -1,1 +1,3 @@
-modify this file from master
+<<<<<<< HEAD
+=======
+>>>>>>> readme-edits
