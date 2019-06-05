@@ -1,3 +1,6 @@
 <<<<<<< HEAD
+modify this file from master
 =======
+modify this file 
+from read me edits:)
 >>>>>>> readme-edits
