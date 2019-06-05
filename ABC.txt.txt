@@ -1,6 +1,1 @@
-<<<<<<< HEAD
 hello
-=======
-..
-goodbye
->>>>>>> readme-edits
