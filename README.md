@@ -1,4 +1,5 @@
 # hello-world
-personal projects and test repository 
+personal projects and test repository
 
-hmm this didn't seem to work last time we will see
+Hi my name is Corinn and I really wish I knew more about branches earlier on
+
